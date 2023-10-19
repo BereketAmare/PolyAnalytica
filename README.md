@@ -33,5 +33,4 @@ Analysis is spread across multiple notebooks:
 4. `04_model_assessment.ipynb`: Model evaluation.
 5. `05_deep_learning_integration.ipynb`: Integration of deep learning.
 
-## Utility Scripts:
-Additional functions or scripts can be found in the `src` directory.
+
